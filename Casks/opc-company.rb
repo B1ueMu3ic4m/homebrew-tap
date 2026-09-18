@@ -1,10 +1,10 @@
 cask "opc-company" do
-  version "0.4.0"
-  sha256 "6bc400bfcf9b8d02c75cc2c20a7ce13b9bedd16cc529c64a33aaf8e9f465685f"
+  version "0.5.0"
+  sha256 "564dce436112c1cb7dc7344435513e05820e0fa645333c2b1cfcba1525ea8adf"
 
   url "https://github.com/B1ueMu3ic4m/OPCCompany/releases/download/v#{version}/OPCCompany-v#{version}.zip"
   name "OPC Company"
-  desc "Watch your AI coding agents run a 2D company"
+  desc "Run your AI coding agents as a 2D pixel company — you're the boss"
   homepage "https://github.com/B1ueMu3ic4m/OPCCompany"
 
   livecheck do
