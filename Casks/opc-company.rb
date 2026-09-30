@@ -1,6 +1,6 @@
 cask "opc-company" do
-  version "2.0.0"
-  sha256 "b8d86ddb2b5a0864ab41a947540963bf9cc421e9f30c89b47123e07399efcc08"
+  version "2.1.0"
+  sha256 "6a03be6b33a3e4143af9ebc4021f8f8618eb89cde2f0ee8cdfccd349f960841d"
 
   url "https://github.com/B1ueMu3ic4m/OPCCompany/releases/download/v#{version}/OPCCompany-v#{version}.zip"
   name "OPC Company"
